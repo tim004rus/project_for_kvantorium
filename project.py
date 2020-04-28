@@ -5,7 +5,7 @@ from tkinter.ttk import Radiobutton
 
 #Program name
 window = Tk()
-window.title("Название файлов")
+window.title("Названия для файлов")
 window.geometry('250x250')
 
 
